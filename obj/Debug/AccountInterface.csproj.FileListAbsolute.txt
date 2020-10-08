@@ -1,0 +1,6 @@
+C:\CodeProjects\AccountInterface\obj\Debug\AccountInterface.csprojAssemblyReference.cache
+C:\CodeProjects\AccountInterface\bin\Debug\AccountInterface.exe.config
+C:\CodeProjects\AccountInterface\bin\Debug\AccountInterface.exe
+C:\CodeProjects\AccountInterface\bin\Debug\AccountInterface.pdb
+C:\CodeProjects\AccountInterface\obj\Debug\AccountInterface.exe
+C:\CodeProjects\AccountInterface\obj\Debug\AccountInterface.pdb
